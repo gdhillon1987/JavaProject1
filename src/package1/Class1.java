@@ -40,6 +40,9 @@ public class Class1 {
     
     	MapClass mapObj = new MapClass();
     	mapObj.exercise4();
+    	
+    	AlgoClass algoObj = new AlgoClass();
+    	algoObj.exercise5();
     }
     
 }
