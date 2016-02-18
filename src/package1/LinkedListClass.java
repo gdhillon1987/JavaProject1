@@ -29,6 +29,7 @@ public class LinkedListClass
     
     //3. Displayed the linkedlist object.
     System.out.println();
+    System.out.println("----------------------------LINKED LIST -------------------------------------------------");
     System.out.println("LinkedList displayed : "+list +list.size());
     
 	//Exercise 1.2

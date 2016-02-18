@@ -34,5 +34,12 @@ public class Class1 {
     	//Create an object of LinkedListClass class and call exercise2 method
     	LinkedListClass lListObj = new LinkedListClass();
     	lListObj.exercise2();
+    	
+    	SetClass setObj = new SetClass();
+    	setObj.exercise3();
+    
+    	MapClass mapObj = new MapClass();
+    	mapObj.exercise4();
     }
+    
 }

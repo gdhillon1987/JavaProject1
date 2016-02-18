@@ -19,7 +19,9 @@ public class List
     list.add(0);
     list.add(23);
     
-    
+    System.out.println();
+    System.out.println("----------------------------ARRAY LIST -------------------------------------------------");
+   
     //3. Displayed the arraylist object.
     System.out.println("ArrayList displayed : "+list +list.size());
      
